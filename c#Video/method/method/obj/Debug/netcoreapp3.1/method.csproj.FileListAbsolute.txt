@@ -1,0 +1,12 @@
+C:\Users\nakul\source\repos\method\method\bin\Debug\netcoreapp3.1\method.exe
+C:\Users\nakul\source\repos\method\method\bin\Debug\netcoreapp3.1\method.deps.json
+C:\Users\nakul\source\repos\method\method\bin\Debug\netcoreapp3.1\method.runtimeconfig.json
+C:\Users\nakul\source\repos\method\method\bin\Debug\netcoreapp3.1\method.runtimeconfig.dev.json
+C:\Users\nakul\source\repos\method\method\bin\Debug\netcoreapp3.1\method.dll
+C:\Users\nakul\source\repos\method\method\bin\Debug\netcoreapp3.1\method.pdb
+C:\Users\nakul\source\repos\method\method\obj\Debug\netcoreapp3.1\method.AssemblyInfoInputs.cache
+C:\Users\nakul\source\repos\method\method\obj\Debug\netcoreapp3.1\method.AssemblyInfo.cs
+C:\Users\nakul\source\repos\method\method\obj\Debug\netcoreapp3.1\method.csproj.CoreCompileInputs.cache
+C:\Users\nakul\source\repos\method\method\obj\Debug\netcoreapp3.1\method.dll
+C:\Users\nakul\source\repos\method\method\obj\Debug\netcoreapp3.1\method.pdb
+C:\Users\nakul\source\repos\method\method\obj\Debug\netcoreapp3.1\method.genruntimeconfig.cache

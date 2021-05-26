@@ -1,0 +1,13 @@
+C:\Users\nakul\source\repos\classCar\classCar\bin\Debug\netcoreapp3.1\classCar.exe
+C:\Users\nakul\source\repos\classCar\classCar\bin\Debug\netcoreapp3.1\classCar.deps.json
+C:\Users\nakul\source\repos\classCar\classCar\bin\Debug\netcoreapp3.1\classCar.runtimeconfig.json
+C:\Users\nakul\source\repos\classCar\classCar\bin\Debug\netcoreapp3.1\classCar.runtimeconfig.dev.json
+C:\Users\nakul\source\repos\classCar\classCar\bin\Debug\netcoreapp3.1\classCar.dll
+C:\Users\nakul\source\repos\classCar\classCar\bin\Debug\netcoreapp3.1\classCar.pdb
+C:\Users\nakul\source\repos\classCar\classCar\obj\Debug\netcoreapp3.1\classCar.csprojAssemblyReference.cache
+C:\Users\nakul\source\repos\classCar\classCar\obj\Debug\netcoreapp3.1\classCar.AssemblyInfoInputs.cache
+C:\Users\nakul\source\repos\classCar\classCar\obj\Debug\netcoreapp3.1\classCar.AssemblyInfo.cs
+C:\Users\nakul\source\repos\classCar\classCar\obj\Debug\netcoreapp3.1\classCar.csproj.CoreCompileInputs.cache
+C:\Users\nakul\source\repos\classCar\classCar\obj\Debug\netcoreapp3.1\classCar.dll
+C:\Users\nakul\source\repos\classCar\classCar\obj\Debug\netcoreapp3.1\classCar.pdb
+C:\Users\nakul\source\repos\classCar\classCar\obj\Debug\netcoreapp3.1\classCar.genruntimeconfig.cache

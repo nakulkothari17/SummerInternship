@@ -1,0 +1,13 @@
+C:\Users\nakul\source\repos\workingWithStrings\workingWithStrings\bin\Debug\netcoreapp3.1\workingWithStrings.exe
+C:\Users\nakul\source\repos\workingWithStrings\workingWithStrings\bin\Debug\netcoreapp3.1\workingWithStrings.deps.json
+C:\Users\nakul\source\repos\workingWithStrings\workingWithStrings\bin\Debug\netcoreapp3.1\workingWithStrings.runtimeconfig.json
+C:\Users\nakul\source\repos\workingWithStrings\workingWithStrings\bin\Debug\netcoreapp3.1\workingWithStrings.runtimeconfig.dev.json
+C:\Users\nakul\source\repos\workingWithStrings\workingWithStrings\bin\Debug\netcoreapp3.1\workingWithStrings.dll
+C:\Users\nakul\source\repos\workingWithStrings\workingWithStrings\bin\Debug\netcoreapp3.1\workingWithStrings.pdb
+C:\Users\nakul\source\repos\workingWithStrings\workingWithStrings\obj\Debug\netcoreapp3.1\workingWithStrings.csprojAssemblyReference.cache
+C:\Users\nakul\source\repos\workingWithStrings\workingWithStrings\obj\Debug\netcoreapp3.1\workingWithStrings.AssemblyInfoInputs.cache
+C:\Users\nakul\source\repos\workingWithStrings\workingWithStrings\obj\Debug\netcoreapp3.1\workingWithStrings.AssemblyInfo.cs
+C:\Users\nakul\source\repos\workingWithStrings\workingWithStrings\obj\Debug\netcoreapp3.1\workingWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\nakul\source\repos\workingWithStrings\workingWithStrings\obj\Debug\netcoreapp3.1\workingWithStrings.dll
+C:\Users\nakul\source\repos\workingWithStrings\workingWithStrings\obj\Debug\netcoreapp3.1\workingWithStrings.pdb
+C:\Users\nakul\source\repos\workingWithStrings\workingWithStrings\obj\Debug\netcoreapp3.1\workingWithStrings.genruntimeconfig.cache

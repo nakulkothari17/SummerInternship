@@ -1,0 +1,13 @@
+C:\Users\nakul\source\repos\iteratorStatements\iteratorStatements\bin\Debug\netcoreapp3.1\iteratorStatements.exe
+C:\Users\nakul\source\repos\iteratorStatements\iteratorStatements\bin\Debug\netcoreapp3.1\iteratorStatements.deps.json
+C:\Users\nakul\source\repos\iteratorStatements\iteratorStatements\bin\Debug\netcoreapp3.1\iteratorStatements.runtimeconfig.json
+C:\Users\nakul\source\repos\iteratorStatements\iteratorStatements\bin\Debug\netcoreapp3.1\iteratorStatements.runtimeconfig.dev.json
+C:\Users\nakul\source\repos\iteratorStatements\iteratorStatements\bin\Debug\netcoreapp3.1\iteratorStatements.dll
+C:\Users\nakul\source\repos\iteratorStatements\iteratorStatements\bin\Debug\netcoreapp3.1\iteratorStatements.pdb
+C:\Users\nakul\source\repos\iteratorStatements\iteratorStatements\obj\Debug\netcoreapp3.1\iteratorStatements.csprojAssemblyReference.cache
+C:\Users\nakul\source\repos\iteratorStatements\iteratorStatements\obj\Debug\netcoreapp3.1\iteratorStatements.AssemblyInfoInputs.cache
+C:\Users\nakul\source\repos\iteratorStatements\iteratorStatements\obj\Debug\netcoreapp3.1\iteratorStatements.AssemblyInfo.cs
+C:\Users\nakul\source\repos\iteratorStatements\iteratorStatements\obj\Debug\netcoreapp3.1\iteratorStatements.csproj.CoreCompileInputs.cache
+C:\Users\nakul\source\repos\iteratorStatements\iteratorStatements\obj\Debug\netcoreapp3.1\iteratorStatements.dll
+C:\Users\nakul\source\repos\iteratorStatements\iteratorStatements\obj\Debug\netcoreapp3.1\iteratorStatements.pdb
+C:\Users\nakul\source\repos\iteratorStatements\iteratorStatements\obj\Debug\netcoreapp3.1\iteratorStatements.genruntimeconfig.cache
