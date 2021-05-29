@@ -18,7 +18,8 @@ namespace classCar
                 myCar.Year,
                 myCar.Color);
 
-            Console.WriteLine("{0}",MarketValue(myCar));
+            Console.WriteLine("{0}",MarketValue(myCar)
+                );
 
             Console.ReadLine();
         }

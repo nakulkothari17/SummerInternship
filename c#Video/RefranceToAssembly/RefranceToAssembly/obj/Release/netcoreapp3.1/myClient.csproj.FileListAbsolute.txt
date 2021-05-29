@@ -1,0 +1,12 @@
+C:\Users\nakul\source\repos\RefranceToAssembly\RefranceToAssembly\bin\Release\netcoreapp3.1\myClient.exe
+C:\Users\nakul\source\repos\RefranceToAssembly\RefranceToAssembly\bin\Release\netcoreapp3.1\myClient.deps.json
+C:\Users\nakul\source\repos\RefranceToAssembly\RefranceToAssembly\bin\Release\netcoreapp3.1\myClient.runtimeconfig.json
+C:\Users\nakul\source\repos\RefranceToAssembly\RefranceToAssembly\bin\Release\netcoreapp3.1\myClient.runtimeconfig.dev.json
+C:\Users\nakul\source\repos\RefranceToAssembly\RefranceToAssembly\bin\Release\netcoreapp3.1\myClient.dll
+C:\Users\nakul\source\repos\RefranceToAssembly\RefranceToAssembly\bin\Release\netcoreapp3.1\myClient.pdb
+C:\Users\nakul\source\repos\RefranceToAssembly\RefranceToAssembly\obj\Release\netcoreapp3.1\myClient.AssemblyInfoInputs.cache
+C:\Users\nakul\source\repos\RefranceToAssembly\RefranceToAssembly\obj\Release\netcoreapp3.1\myClient.AssemblyInfo.cs
+C:\Users\nakul\source\repos\RefranceToAssembly\RefranceToAssembly\obj\Release\netcoreapp3.1\myClient.csproj.CoreCompileInputs.cache
+C:\Users\nakul\source\repos\RefranceToAssembly\RefranceToAssembly\obj\Release\netcoreapp3.1\myClient.dll
+C:\Users\nakul\source\repos\RefranceToAssembly\RefranceToAssembly\obj\Release\netcoreapp3.1\myClient.pdb
+C:\Users\nakul\source\repos\RefranceToAssembly\RefranceToAssembly\obj\Release\netcoreapp3.1\myClient.genruntimeconfig.cache

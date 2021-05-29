@@ -1,0 +1,8 @@
+C:\Users\nakul\source\repos\RefranceToAssembly\myLibarary\bin\Release\netcoreapp3.1\myLibarary.deps.json
+C:\Users\nakul\source\repos\RefranceToAssembly\myLibarary\bin\Release\netcoreapp3.1\myLibarary.dll
+C:\Users\nakul\source\repos\RefranceToAssembly\myLibarary\bin\Release\netcoreapp3.1\myLibarary.pdb
+C:\Users\nakul\source\repos\RefranceToAssembly\myLibarary\obj\Release\netcoreapp3.1\myLibarary.AssemblyInfoInputs.cache
+C:\Users\nakul\source\repos\RefranceToAssembly\myLibarary\obj\Release\netcoreapp3.1\myLibarary.AssemblyInfo.cs
+C:\Users\nakul\source\repos\RefranceToAssembly\myLibarary\obj\Release\netcoreapp3.1\myLibarary.csproj.CoreCompileInputs.cache
+C:\Users\nakul\source\repos\RefranceToAssembly\myLibarary\obj\Release\netcoreapp3.1\myLibarary.dll
+C:\Users\nakul\source\repos\RefranceToAssembly\myLibarary\obj\Release\netcoreapp3.1\myLibarary.pdb
