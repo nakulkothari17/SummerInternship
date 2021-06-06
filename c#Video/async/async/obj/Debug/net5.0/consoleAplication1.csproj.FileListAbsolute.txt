@@ -1,0 +1,17 @@
+C:\Users\nakul\source\repos\consoleAplication1\consoleAplication1\bin\Debug\net5.0\consoleAplication1.exe
+C:\Users\nakul\source\repos\consoleAplication1\consoleAplication1\bin\Debug\net5.0\consoleAplication1.deps.json
+C:\Users\nakul\source\repos\consoleAplication1\consoleAplication1\bin\Debug\net5.0\consoleAplication1.runtimeconfig.json
+C:\Users\nakul\source\repos\consoleAplication1\consoleAplication1\bin\Debug\net5.0\consoleAplication1.runtimeconfig.dev.json
+C:\Users\nakul\source\repos\consoleAplication1\consoleAplication1\bin\Debug\net5.0\consoleAplication1.dll
+C:\Users\nakul\source\repos\consoleAplication1\consoleAplication1\bin\Debug\net5.0\ref\consoleAplication1.dll
+C:\Users\nakul\source\repos\consoleAplication1\consoleAplication1\bin\Debug\net5.0\consoleAplication1.pdb
+C:\Users\nakul\source\repos\consoleAplication1\consoleAplication1\obj\Debug\net5.0\consoleAplication1.csprojAssemblyReference.cache
+C:\Users\nakul\source\repos\consoleAplication1\consoleAplication1\obj\Debug\net5.0\consoleAplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nakul\source\repos\consoleAplication1\consoleAplication1\obj\Debug\net5.0\consoleAplication1.AssemblyInfoInputs.cache
+C:\Users\nakul\source\repos\consoleAplication1\consoleAplication1\obj\Debug\net5.0\consoleAplication1.AssemblyInfo.cs
+C:\Users\nakul\source\repos\consoleAplication1\consoleAplication1\obj\Debug\net5.0\consoleAplication1.csproj.CoreCompileInputs.cache
+C:\Users\nakul\source\repos\consoleAplication1\consoleAplication1\obj\Debug\net5.0\consoleAplication1.dll
+C:\Users\nakul\source\repos\consoleAplication1\consoleAplication1\obj\Debug\net5.0\ref\consoleAplication1.dll
+C:\Users\nakul\source\repos\consoleAplication1\consoleAplication1\obj\Debug\net5.0\consoleAplication1.pdb
+C:\Users\nakul\source\repos\consoleAplication1\consoleAplication1\obj\Debug\net5.0\consoleAplication1.genruntimeconfig.cache
+C:\Users\nakul\source\repos\consoleAplication1\consoleAplication1\bin\Debug\net5.0\TextFile1.txt
